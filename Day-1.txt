@@ -1,0 +1,8 @@
+I have bought a course on udemy and started learning linux
+
+Today i completed all the basic commands.
+1.File Structures
+2.Accessing Files
+3.Editors like vim,nano,gedit
+4.users and groups
+5.processess
