@@ -6,3 +6,7 @@ Today i completed all the basic commands.
 3.Editors like vim,nano,gedit
 4.users and groups
 5.processess
+
+I have found a website to learn all about linux 
+https://linuxjourney.com/
+It have excercies and detailed explanation about the concepts so it is helpful.
