@@ -1,0 +1,5 @@
+Today I have Done the prerequisists that creating a free tier aws account and a dockerhub account
+
+and after that practiced some commands on linux and get to know about Bash Scripting.
+
+will know and learn how to do that.
