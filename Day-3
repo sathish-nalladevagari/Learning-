@@ -1,0 +1,8 @@
+Today I have learnt about VMware that means creating and managing virtual machines.
+we can create VM's in 2 ways 
+they can be manual and automatic
+
+in manual we can create vm's using any workstations and installing os file and can run those os
+in automation we can create vm's as many as we want with the help of vagrant.
+
+vagarant only has 4 commands to start reload,reboot etc
