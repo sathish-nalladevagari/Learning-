@@ -12,4 +12,4 @@ and vagrant commands such as
 
 
 And installed httpd to run server on local
-and apache2 for ubuntu 
+and apache2 or LAMP stack like apache2,mysql,php,wordpress templete for ubuntu 
