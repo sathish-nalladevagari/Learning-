@@ -9,3 +9,7 @@ and vagrant commands such as
 5. vagrant provision
 6. vagrant destroy
 7. vagrant global-status
+
+
+And installed httpd to run server on local
+and apache2 for ubuntu 
