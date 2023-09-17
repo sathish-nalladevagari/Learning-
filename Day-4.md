@@ -26,3 +26,4 @@ and These are step by step process
 5.now set up your index.html page in /var/www/html
 6.reboot the server
 7.check the server in your local browser
+![Screenshot 2023-09-18 000317](https://github.com/sathish-nalladevagari/Learning-Devops/assets/104757035/3d6bc523-5167-4d75-97b1-ab1b311be322)
